@@ -41,7 +41,7 @@ export default function SignIn() {
                 <LogIn size={32} className="text-primary" />
               </div>
               <h2>Welcome Back</h2>
-              <p>Sign in to your Babua Premier League account</p>
+              <p>Sign in to your OneTouch Education account</p>
             </div>
 
             {/* Card */}

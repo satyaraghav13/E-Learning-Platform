@@ -92,7 +92,7 @@ export default function SignUp() {
                 <UserPlus size={32} className="text-primary" />
               </div>
               <h2>Join Us</h2>
-              <p>Start your learning journey with Babua Premier League</p>
+              <p>Start your learning journey with OneTouch Education</p>
             </div>
 
             {/* Card */}
